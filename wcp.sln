@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server WCP", "server\Server WCP.csproj", "{DAC74839-81BA-4058-87C0-8F03FB4CE509}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "server\Server.csproj", "{DAC74839-81BA-4058-87C0-8F03FB4CE509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control WCP", "control\Control WCP.csproj", "{546F5385-C15B-4407-A4B5-616261E939D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "control\Control.csproj", "{546F5385-C15B-4407-A4B5-616261E939D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager WCP", "Manager_WCP\Manager WCP.csproj", "{9E7ADCF8-1EB2-49F8-874D-ADD9210D7F88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager_WCP\Manager.csproj", "{9E7ADCF8-1EB2-49F8-874D-ADD9210D7F88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -44,7 +44,7 @@ namespace SRV
         }
         public void SetupServer()
         {
-             textBox1.Text+="Start server...\r\n";
+            textBox1.Text+="Start server...\r\n";
             sServer = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 			//_serverSocket.Bind(new IPEndPoint(IPAddress.Any, _PORT));
 			sServer.Bind(new IPEndPoint(IPAddress.Loopback, port));
